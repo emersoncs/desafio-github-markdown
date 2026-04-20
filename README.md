@@ -20,6 +20,8 @@ Nele você encontrará exemplos de formatação em:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/emersoncs/desafio-github-markdown.git
+2. Entre na pasta do projeto: `cd desafio-github-markdown`.
+3. Abra no seu editor favorito.   
 
 ## Colaboradores
 - [Emerson Cássio] (https://github.com/emersoncs)
